@@ -1,6 +1,6 @@
-# KSPSimpleRealism (description incomplete)
+# KSP Simple Realism
 Collection of lightweight patches for Kerbal Space Program to add semi-realism* with minimal requirements
-NOTE: THIS MOD IS NOT CURRENTLY FUNCTIONAL AND IS WIP
+NOTE: THIS MOD IS NOT CURRENTLY FUNCTIONAL AND IS WIP, TARGET FIRST RELEASE EARLY APRIL 2021
 
 ## Credit
 All of the config files I have created are heavily inspired by Realism Overhaul and RP-0/RP-1. I have included a description in the config files if some small sections have been copied from Realism Overhaul however there are very few direct copies, the overwhelming majority of the content in the config files has been created by me.
