@@ -7,7 +7,22 @@ All of the config files I have created are heavily inspired by Realism Overhaul 
 The source code is taken entirely from RP-0 and all credit goes to the team of contributors there. I have neutered RP-0 through editing a small number of lines of code but mostly through the config files where possible. A more detailed description of changes to the source code will be included ASAP.
 
 ## Overview
-Will add soon!
+The core tenets of this mod (a more accurate word might be "set of patches") are as follows:
+### Incorporate the best of science without the grinding required
+- No biome-specific science: the tree is balanced around getting science once rather than timewarping endlessly to get that canyon biome science.
+- Greater Scansat importance: the rewards from the scans are relatively much more important, therefore negating potentially only performing flybys to cheese science due to the removal of biomes.
+- No unrealistic or cheese science: this means no EVA reports in upper atmospheres and no science from earth surface.
+- Greater focus on tech tree progression: the player shouldn't feel like they need to perform repetitive missions just because a new part was unlocked, the aim is to allow the user to "bank" upgrades on science parts before feeling like a return visit to a planet/moon would be rewarding. The pace of progression is such that you can feel free to not visit the moon with a lander at all after ~1970, but for example by about ~2005 there could be a pretty strong argument for sending an updated lander due to the multiple new experiments unlocked since 1970.
+- Part simplicity: as progress through tree occurs, science parts will unlock new experiments without requiring additional parts. For example the 2005 orbital science package contains the 1995 (and lower) orbital science experiments along with the 2005 experiment, therefore greatly reducing the amount of parts required.
+
+### Minimise the load time
+- Use a single stock model and tweakscale wherever possible:
+- Limit dependencies as much as possible:
+
+### Reduce funds to building upgrades only
+- Parts and resources have no cost:
+- Missions determine building upgrades:
+
 ## Requirements
 Will add soon!
 ## Balancing and Deviations from Realistic Values
